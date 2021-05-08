@@ -1,0 +1,222 @@
+{
+    "pageFullName": "page002",
+    "menu": [
+        {
+            "item": [
+                {
+                    "file": "new_3l4_p2_a1.mp3",
+                    "name": "听录音",
+                    "action": "PlayAudio",
+                    "version": "PlayAudioV1"
+                },
+                {
+                    "file": "new_3l4_m1u1a1.swf",
+                    "name": "看动画",
+                    "action": "PlayFlash",
+                    "version": null
+                },
+                {
+                    "file": "m1u1a1-data/data.xml",
+                    "name": "跟读",
+                    "action": "FollowRead",
+                    "version": null
+                },
+                {
+                    "file": "m1u1a1-data/data.xml",
+                    "name": "自读",
+                    "action": "Read",
+                    "version": null
+                },
+                {
+                    "file": "m1u1a1-data/data.xml",
+                    "name": "对话",
+                    "action": "RolePlay",
+                    "version": null
+                },
+                {
+                    "file": "m1u1a1-data/data.xml",
+                    "name": "背课文",
+                    "action": "Recite",
+                    "version": null
+                }
+            ],
+            "cid": "3l4_V2_p002_menu_1",
+            "y": 124,
+            "version": "",
+            "x": 22
+        },
+        {
+            "item": [
+                {
+                    "file": "new_3l4_p2_a2.mp3",
+                    "name": "听录音",
+                    "action": "PlayAudio",
+                    "version": "PlayAudioV1"
+                },
+                {
+                    "file": "new_3l4_m1u1a2.swf",
+                    "name": "看动画",
+                    "action": "PlayFlash",
+                    "version": null
+                },
+                {
+                    "file": "m1u1a2-data/data.xml",
+                    "name": "跟读",
+                    "action": "FollowRead",
+                    "version": null
+                },
+                {
+                    "file": "m1u1a2-data/data.xml",
+                    "name": "自读",
+                    "action": "Read",
+                    "version": null
+                },
+                {
+                    "file": "m1u1a2-data/data.xml",
+                    "name": "对话",
+                    "action": "RolePlay",
+                    "version": null
+                },
+                {
+                    "file": "m1u1a2-data/data.xml",
+                    "name": "背课文",
+                    "action": "Recite",
+                    "version": null
+                }
+            ],
+            "cid": "3l4_V2_p002_menu_2",
+            "y": 432,
+            "version": "",
+            "x": 22
+        }
+    ],
+    "background": [
+        {
+            "file": "3l4_V2_p002.jpg",
+            "version": "BackgroundV1"
+        }
+    ],
+    "clickRead": [
+        {
+            "text": "P2-A1-T.mp3",
+            "height": 28,
+            "width": 193,
+            "cid": "3l4_V2_p002_translate_2",
+            "y": 133,
+            "x": 74,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "P2-A2-T.mp3",
+            "height": 24,
+            "width": 333,
+            "cid": "3l4_V2_p002_translate_5",
+            "y": 443,
+            "x": 73,
+            "version": "ClickReadV1"
+        }
+    ],
+    "word": [
+        {
+            "text": "nice",
+            "height": 30,
+            "width": 63,
+            "cid": "3l4_V2_p002_word_1",
+            "y": 88,
+            "x": 285,
+            "version": "WordV1"
+        },
+        {
+            "text": "clever",
+            "height": 17,
+            "width": 41,
+            "cid": "3l4_V2_p002_word_2",
+            "y": 190,
+            "x": 124,
+            "version": "WordV1"
+        },
+        {
+            "text": "naughty",
+            "height": 17,
+            "width": 56,
+            "cid": "3l4_V2_p002_word_3",
+            "y": 174,
+            "x": 379,
+            "version": "WordV1"
+        }
+    ],
+    "translate": [
+        {
+            "height": 32,
+            "width": 277,
+            "isCR": "1",
+            "cid": "3l4_V2_p002_translate_1",
+            "y": 88,
+            "version": "TranslateV1",
+            "x": 183
+        },
+        {
+            "height": 24,
+            "width": 195,
+            "isCR": null,
+            "cid": "3l4_V2_p002_translate_2",
+            "y": 134,
+            "version": "TranslateV1",
+            "x": 71
+        },
+        {
+            "height": 34,
+            "width": 125,
+            "isCR": "1",
+            "cid": "3l4_V2_p002_translate_3",
+            "y": 172,
+            "version": "TranslateV1",
+            "x": 76
+        },
+        {
+            "height": 37,
+            "width": 87,
+            "isCR": "1",
+            "cid": "3l4_V2_p002_translate_4",
+            "y": 153,
+            "version": "TranslateV1",
+            "x": 378
+        },
+        {
+            "height": 23,
+            "width": 335,
+            "isCR": null,
+            "cid": "3l4_V2_p002_translate_5",
+            "y": 444,
+            "version": "TranslateV1",
+            "x": 71
+        },
+        {
+            "height": 17,
+            "width": 41,
+            "isCR": "1",
+            "cid": "3l4_V2_p002_translate_6",
+            "y": 503,
+            "version": "TranslateV1",
+            "x": 142
+        },
+        {
+            "height": 17,
+            "width": 62,
+            "isCR": "1",
+            "cid": "3l4_V2_p002_translate_7",
+            "y": 503,
+            "version": "TranslateV1",
+            "x": 186
+        },
+        {
+            "height": 17,
+            "width": 75,
+            "isCR": "1",
+            "cid": "3l4_V2_p002_translate_7",
+            "y": 525,
+            "version": "TranslateV1",
+            "x": 154
+        }
+    ]
+}

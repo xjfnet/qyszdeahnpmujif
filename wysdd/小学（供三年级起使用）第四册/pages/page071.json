@@ -1,0 +1,466 @@
+{
+    "pageFullName": null,
+    "menu": [
+        {
+            "item": [
+                {
+                    "file": "new_3l4_p71_words_songs.mp3",
+                    "name": "听录音",
+                    "action": "PlayAudio",
+                    "version": "PlayAudioV1"
+                }
+            ],
+            "cid": "3l4_V2_p071_menu_1",
+            "y": 84,
+            "version": null,
+            "x": 65
+        },
+        {
+            "item": [
+                {
+                    "file": "new_3l4_p71_words_proper_nouns.mp3",
+                    "name": "听录音",
+                    "action": "PlayAudio",
+                    "version": "PlayAudioV1"
+                }
+            ],
+            "cid": "3l4_V2_p071_menu_2",
+            "y": 361,
+            "version": null,
+            "x": 65
+        }
+    ],
+    "background": [
+        {
+            "file": "3l4_V2_p071.jpg",
+            "version": "BackgroundV1"
+        }
+    ],
+    "clickRead": [
+        {
+            "text": "cluck.mp3",
+            "height": 11,
+            "width": 29,
+            "cid": "no",
+            "y": 187,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "chick.mp3",
+            "height": 11,
+            "width": 29,
+            "cid": "no",
+            "y": 171,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "cheep.mp3",
+            "height": 11,
+            "width": 34,
+            "cid": "no",
+            "y": 155,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "ache.mp3",
+            "height": 11,
+            "width": 29,
+            "cid": "no",
+            "y": 138,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "felt.mp3",
+            "height": 11,
+            "width": 21,
+            "cid": "no",
+            "y": 254,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "fair.mp3",
+            "height": 11,
+            "width": 22,
+            "cid": "no",
+            "y": 238,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "enjoy.mp3",
+            "height": 11,
+            "width": 31,
+            "cid": "no",
+            "y": 221,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "curl.mp3",
+            "height": 11,
+            "width": 23,
+            "cid": "no",
+            "y": 205,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "happily.mp3",
+            "height": 11,
+            "width": 40,
+            "cid": "no",
+            "y": 272,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Ben.mp3",
+            "height": 11,
+            "width": 23,
+            "cid": "no",
+            "y": 436,
+            "x": 94,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "hen.mp3",
+            "height": 11,
+            "width": 23,
+            "cid": "no",
+            "y": 321,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "held.mp3",
+            "height": 11,
+            "width": 29,
+            "cid": "no",
+            "y": 287,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "India.mp3",
+            "height": 11,
+            "width": 30,
+            "cid": "no",
+            "y": 586,
+            "x": 95,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Jill.mp3",
+            "height": 11,
+            "width": 23,
+            "cid": "no",
+            "y": 467,
+            "x": 94,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Jack.mp3",
+            "height": 11,
+            "width": 26,
+            "cid": "no",
+            "y": 451,
+            "x": 94,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "hop.mp3",
+            "height": 11,
+            "width": 23,
+            "cid": "no",
+            "y": 338,
+            "x": 83,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "England.mp3",
+            "height": 11,
+            "width": 44,
+            "cid": "no",
+            "y": 556,
+            "x": 95,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Tommy.mp3",
+            "height": 11,
+            "width": 40,
+            "cid": "no",
+            "y": 498,
+            "x": 94,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Parrot.mp3",
+            "height": 11,
+            "width": 33,
+            "cid": "no",
+            "y": 482,
+            "x": 94,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Hong Kong.mp3",
+            "height": 11,
+            "width": 58,
+            "cid": "no",
+            "y": 571,
+            "x": 95,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "rule.mp3",
+            "height": 11,
+            "width": 28,
+            "cid": "no",
+            "y": 256,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "stop.mp3",
+            "height": 11,
+            "width": 28,
+            "cid": "no",
+            "y": 304,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "start.mp3",
+            "height": 11,
+            "width": 28,
+            "cid": "no",
+            "y": 287,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "snow.mp3",
+            "height": 11,
+            "width": 28,
+            "cid": "no",
+            "y": 272,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "when.mp3",
+            "height": 11,
+            "width": 32,
+            "cid": "no",
+            "y": 338,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "wet.mp3",
+            "height": 11,
+            "width": 23,
+            "cid": "no",
+            "y": 321,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "US.mp3",
+            "height": 11,
+            "width": 18,
+            "cid": "no",
+            "y": 411,
+            "x": 314,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Washington DC.mp3",
+            "height": 11,
+            "width": 80,
+            "cid": "no",
+            "y": 427,
+            "x": 314,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Beihai Park.mp3",
+            "height": 11,
+            "width": 59,
+            "cid": "no",
+            "y": 500,
+            "x": 314,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Big Ben.mp3",
+            "height": 11,
+            "width": 43,
+            "cid": "no",
+            "y": 516,
+            "x": 314,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Buckingham Palace.mp3",
+            "height": 11,
+            "width": 100,
+            "cid": "no",
+            "y": 531,
+            "x": 314,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Hyde Park.mp3",
+            "height": 11,
+            "width": 53,
+            "cid": "no",
+            "y": 547,
+            "x": 314,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "London Bridge.mp3",
+            "height": 11,
+            "width": 75,
+            "cid": "no",
+            "y": 563,
+            "x": 314,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "San Francisco.mp3",
+            "height": 11,
+            "width": 73,
+            "cid": "no",
+            "y": 634,
+            "x": 95,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "New York.mp3",
+            "height": 11,
+            "width": 50,
+            "cid": "no",
+            "y": 618,
+            "x": 95,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "London.mp3",
+            "height": 11,
+            "width": 43,
+            "cid": "no",
+            "y": 602,
+            "x": 95,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "London Zoo.mp3",
+            "height": 11,
+            "width": 64,
+            "cid": "no",
+            "y": 578,
+            "x": 314,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "the Great Wall.mp3",
+            "height": 11,
+            "width": 75,
+            "cid": "no",
+            "y": 594,
+            "x": 314,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "Tower Bridge.mp3",
+            "height": 11,
+            "width": 68,
+            "cid": "no",
+            "y": 611,
+            "x": 314,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "West Lake.mp3",
+            "height": 11,
+            "width": 56,
+            "cid": "no",
+            "y": 626,
+            "x": 314,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "horrible.mp3",
+            "height": 11,
+            "width": 42,
+            "cid": "no",
+            "y": 155,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "laugh.mp3",
+            "height": 11,
+            "width": 30,
+            "cid": "no",
+            "y": 188,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "hope.mp3",
+            "height": 11,
+            "width": 30,
+            "cid": "no",
+            "y": 138,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "lady.mp3",
+            "height": 11,
+            "width": 30,
+            "cid": "no",
+            "y": 171,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "piano.mp3",
+            "height": 11,
+            "width": 30,
+            "cid": "no",
+            "y": 222,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "play.mp3",
+            "height": 11,
+            "width": 30,
+            "cid": "no",
+            "y": 239,
+            "x": 307,
+            "version": "ClickReadV1"
+        },
+        {
+            "text": "meet.mp3",
+            "height": 11,
+            "width": 30,
+            "cid": "no",
+            "y": 205,
+            "x": 307,
+            "version": "ClickReadV1"
+        }
+    ],
+    "word": null,
+    "translate": null
+}

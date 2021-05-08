@@ -1,0 +1,182 @@
+{
+    "pageFullName": "page012",
+    "menu": [
+        {
+            "item": [
+                {
+                    "file": "new_3l4_p12_a3.mp3",
+                    "name": "听录音",
+                    "action": "PlayAudio",
+                    "version": "PlayAudioV1"
+                },
+                {
+                    "file": "m2u2a3-data/data.xml",
+                    "name": "跟读",
+                    "action": "FollowRead",
+                    "version": null
+                },
+                {
+                    "file": "m2u2a3-data/data.xml",
+                    "name": "自读",
+                    "action": "Read",
+                    "version": null
+                },
+                {
+                    "file": "m2u2a3-data/data.xml",
+                    "name": "对话",
+                    "action": "RolePlay",
+                    "version": null
+                },
+                {
+                    "file": "m2u2a3-data/data.xml",
+                    "name": "背课文",
+                    "action": "Recite",
+                    "version": null
+                }
+            ],
+            "cid": "3l4_V2_p012_menu_1",
+            "y": 83,
+            "version": "",
+            "x": 22
+        },
+        {
+            "item": [
+                {
+                    "file": "new_3l4_p12_a4.mp3",
+                    "name": "听录音",
+                    "action": "PlayAudio",
+                    "version": "PlayAudioV1"
+                },
+                {
+                    "file": "new_3l4_m2u2a4.swf",
+                    "name": "看动画",
+                    "action": "PlayFlash",
+                    "version": null
+                }
+            ],
+            "cid": "3l4_V2_p012_menu_2",
+            "y": 396,
+            "version": "",
+            "x": 22
+        }
+    ],
+    "background": [
+        {
+            "file": "3l4_V2_p012.jpg",
+            "version": "BackgroundV1"
+        }
+    ],
+    "clickRead": [
+        {
+            "text": "P12-A3-T.mp3",
+            "height": 24,
+            "width": 157,
+            "cid": "3l4_V2_p012_translate_1",
+            "y": 94,
+            "x": 74,
+            "version": "ClickReadV1"
+        }
+    ],
+    "word": null,
+    "translate": [
+        {
+            "height": 22,
+            "width": 152,
+            "isCR": null,
+            "cid": "3l4_V2_p012_translate_1",
+            "y": 96,
+            "version": "TranslateV1",
+            "x": 75
+        },
+        {
+            "height": 17,
+            "width": 80,
+            "isCR": "1",
+            "cid": "3l4_V2_p012_translate_2",
+            "y": 123,
+            "version": "TranslateV1",
+            "x": 94
+        },
+        {
+            "height": 17,
+            "width": 70,
+            "isCR": "1",
+            "cid": "3l4_V2_p012_translate_3",
+            "y": 123,
+            "version": "TranslateV1",
+            "x": 178
+        },
+        {
+            "height": 17,
+            "width": 85,
+            "isCR": "1",
+            "cid": "3l4_V2_p012_translate_4",
+            "y": 143,
+            "version": "TranslateV1",
+            "x": 94
+        },
+        {
+            "height": 17,
+            "width": 135,
+            "isCR": "1",
+            "cid": "3l4_V2_p012_translate_5",
+            "y": 143,
+            "version": "TranslateV1",
+            "x": 182
+        },
+        {
+            "height": 21,
+            "width": 236,
+            "isCR": "1",
+            "cid": "3l4_V2_p012_translate_6",
+            "y": 409,
+            "version": "TranslateV1",
+            "x": 75
+        },
+        {
+            "height": 30,
+            "width": 330,
+            "isCR": "1",
+            "cid": "3l4_V2_p012_translate_7",
+            "y": 451,
+            "version": "TranslateV1",
+            "x": 115
+        },
+        {
+            "height": 17,
+            "width": 306,
+            "isCR": "1",
+            "cid": "3l4_V2_p012_translate_8",
+            "y": 512,
+            "version": "TranslateV1",
+            "x": 136
+        },
+        {
+            "height": 17,
+            "width": 86,
+            "isCR": "1",
+            "cid": "3l4_V2_p012_translate_8",
+            "y": 560,
+            "version": "TranslateV1",
+            "x": 128
+        },
+        {
+            "height": 17,
+            "width": 214,
+            "isCR": "1",
+            "cid": "3l4_V2_p012_translate_9",
+            "y": 560,
+            "version": "TranslateV1",
+            "x": 224
+        },
+        {
+            "height": 17,
+            "width": 84,
+            "isCR": "1",
+            "cid": "3l4_V2_p012_translate_9",
+            "y": 613,
+            "version": "TranslateV1",
+            "x": 328
+        }
+    ]
+}
